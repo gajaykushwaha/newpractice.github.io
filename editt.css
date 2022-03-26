@@ -1,0 +1,20 @@
+.successfully
+{
+    height: 10%;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+
+.danger
+{
+    height: 10%;
+    background-color:rgb(218, 81, 81);
+    text-align: center;
+    color: white;
+}
+
+.inp
+{
+    width: 50%;
+}

@@ -1,0 +1,86 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.card-title
+{
+    margin-left: 5%;
+}
+.row
+{
+    margin-left: 10%;
+}
+hr
+{
+    height: 10px;
+    width: 70%;
+}
+.header
+{
+    background-color: rgb(65, 182, 65);
+    
+    height:5%;
+    width: 100%;
+  
+    
+}
+.profile_image
+{
+    width:30px;
+    height: 30%;
+}
+.buttons
+{
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    width:15%;
+    height: 10%;
+    margin-left:7%;
+}
+.footer button{
+    padding-top: 0.4%;
+    padding-bottom: 0.4%;
+    border:3px solid black;
+    border-radius: 5px;
+}
+.footer
+{
+    display: flex;
+    width: 100%;
+    margin-top: 11%;
+    background-color: rgb(65, 182, 65);
+}
+.nav-item
+{
+    margin-left: 15%;
+}
+
+.btns
+{
+    padding: 6px;
+    border:2px solid black;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+#timo
+{
+   
+    background-color: rgb(71, 190, 87);
+    margin-left: 50%;
+    text-align: center;
+    border:2px solid black;
+    border-radius: 3px;
+    width: 25%;
+    height: 60%;
+}
+#time
+{
+margin-top: 2%;
+}
+.end_test
+{
+    background-color: red;
+    
+}
